@@ -1,0 +1,13 @@
+
+.urlImg {
+	width: 800px;
+	height:300px;
+	/*display:block;*/
+	background: url(../img/qui.png);
+	}
+
+.urlImg:hover {
+	width: 800px;
+	height:300px;
+	background: url(../img/ct.png);
+	}
